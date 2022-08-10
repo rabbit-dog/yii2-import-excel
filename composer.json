@@ -1,5 +1,5 @@
 {
-    "name": "rabbit-dog/hyperf-filters-env",
+    "name": "rabbit-dog/yii2-import-excel",
     "description": "An Eloquent way to filter Eloquent Models",
     "license": "MIT",
     "require": {
@@ -14,7 +14,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Rabbit\\Filter\\": "src/"
+            "Rabbit\\ImportExcel\\": "src/"
         }
     }
 }
