@@ -9,7 +9,6 @@
             "email": "zhangeffie@163.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "php": ">=7.0",
         "phpoffice/phpspreadsheet": "1.19.0"
