@@ -6,8 +6,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "123",
-            "email": "123"
+            "name": "rabbit-dog",
+            "email": "zhangeffie@163.com"
         }
     ],
     "require": {
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "RabbitDog\\yiiImportExcel\\": "src/"
+            "Rabbit\\ImportExcel\\": "src/"
         }
     }
 }
