@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "php": ">=7.2.0",
+        "php": ">=7.0",
         "rabbit-dog/helper": "^1.1",
         "phpoffice/phpspreadsheet": "1.19.0"
     },
