@@ -13,7 +13,6 @@
         "php": ">=7.0",
         "phpoffice/phpspreadsheet": "1.19.0"
     },
-    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Rabbit\\ImportExcel\\": "src/"
