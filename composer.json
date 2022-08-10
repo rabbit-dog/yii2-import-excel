@@ -1,20 +1,23 @@
 {
     "name": "rabbit-dog/yii2-import-excel",
-    "description": "An Eloquent way to filter Eloquent Models",
+    "description": "yii导入excel表格的扩展程序，程序对常用导入套路进行了封装，可大大简化编写代码的工作量。",
+    "type": "yii2-extension",
+    "keywords": ["yii2","import excel", "yii", "导入excel"],
     "license": "MIT",
-    "require": {
-        "php": ">=5.3"
-    },
     "authors": [
         {
-            "name": "rabbit-dog",
-            "email": "zhangeffie@163.com"
+            "name": "xing.chen",
+            "email": "877349686@qq.com"
         }
     ],
-    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.2.0",
+        "xing.chen/helper": "^1.1",
+        "phpoffice/phpspreadsheet": "1.19.0"
+    },
     "autoload": {
         "psr-4": {
-            "Rabbit\\ImportExcel\\": "src/"
+            "xing\\yiiImportExcel\\": ""
         }
     }
 }
