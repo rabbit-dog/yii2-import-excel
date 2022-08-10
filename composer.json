@@ -1,12 +1,11 @@
 {
     "name": "rabbit-dog/yii2-import-excel",
-    "description": "yiiµ¼Èëexcel±í¸ñµÄÀ©Õ¹³ÌÐò£¬³ÌÐò¶Ô³£ÓÃµ¼ÈëÌ×Â·½øÐÐÁË·â×°£¬¿É´ó´ó¼ò»¯±àÐ´´úÂëµÄ¹¤×÷Á¿¡£",
-    "type": "1",
+    "description": "yiiå¯¼å…¥excelè¡¨æ ¼çš„æ‰©å±•ç¨‹åºï¼Œç¨‹åºå¯¹å¸¸ç”¨å¯¼å…¥å¥—è·¯è¿›è¡Œäº†å°è£…ï¼Œå¯å¤§å¤§ç®€åŒ–ç¼–å†™ä»£ç çš„å·¥ä½œé‡ã€‚",
+    "license": "MIT",
     "require": {
         "php": ">=7.0",
         "phpoffice/phpspreadsheet": "1.19.0"
     },
-    "license": "Apache-2.0",
     "authors": [
         {
             "name": "rabbit-dog",
