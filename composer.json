@@ -1,10 +1,9 @@
 {
-    "name": "rabbit-dog/yii2-import-excel",
-    "description": "yii导入excel表格的扩展程序，程序对常用导入套路进行了封装，可大大简化编写代码的工作量。",
+    "name": "rabbit-dog/hyperf-filters-env",
+    "description": "An Eloquent way to filter Eloquent Models",
     "license": "MIT",
     "require": {
-        "php": ">=7.0",
-        "phpoffice/phpspreadsheet": "1.19.0"
+        "php": ">=5.3"
     },
     "authors": [
         {
@@ -15,7 +14,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Rabbit\\ImportExcel\\": "src/"
+            "Rabbit\\Filter\\": "src/"
         }
     }
 }
